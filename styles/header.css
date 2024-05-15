@@ -1,0 +1,47 @@
+.logo-bem {
+    height: 5%;
+    width: 5%;
+}
+
+.cabeçalho {
+    text-align: center;
+}
+.titulo {
+    color:  #BFBF3F;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-weight: 100;
+}
+
+.titulo--negrito{
+    color:#BFBF3F;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-weight: 100;
+}
+.opçoes__item {
+    font-size: 20px;
+    font-weight: 100;
+    color: #BFBF3F
+}
+.lista-menu__link {
+    text-decoration: none;
+    color: #BFBF3F;
+    font-weight: 100;
+}
+.lista {
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+}
+.lista-menu__item{
+    border: 1px solid black;
+    border-radius: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo-salao {
+    height: 10%;
+    width: 10%;
+}
